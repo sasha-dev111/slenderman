@@ -1,0 +1,43 @@
+body{
+  font-family: sans-serif;
+  
+}
+h1{
+    text-align:center;
+}
+nav{
+    text-align:center;
+    background-color:gray;
+}
+h2{
+    text-align:center;
+    color:white;
+}
+h4{
+    text-align:right;
+    text-align:center;
+}
+header{
+    color:white;
+    background-color:black;
+    padding:15px;
+}
+main{
+    padding:15px;
+    background-color:gray;
+}
+
+li{
+    color:#424852;
+}
+footer{
+    background-color:black;
+    padding:15px;
+    color:white;
+}
+a{
+    color:#424e4f;
+}
+h3{
+    text-align:center;
+}
